@@ -8,7 +8,9 @@
 </a>
 <br />
 
- I'm Camilo, from Medellín Colombia, I really enjoy working with JavaScript like Node.JS and React, as well i can work with Asp.Net Core (2+) backends, I also enjoy the UI / UX desing (I'm training for that hehe) 
+
+
+I'm Camilo, from Medellín Colombia, I really enjoy working with JavaScript like Node.JS and React, as well i can work with Asp.Net Core (2+) backends, I also enjoy the UI / UX desing (I'm training for that hehe) 
  
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [brayan.hernandez1222@gmail.com]
