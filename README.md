@@ -13,7 +13,7 @@ I'm Camilo, from Medellín Colombia, I really enjoy working with JavaScript like
  
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [brayan.hernandez1222@gmail.com]
-- 📝 [Resume](https://camilohernandezdev.netlify.app/#resume)
+- 📝 [Resume](https://camilo-hernandez.vercel.app/#resume)
 
 If you like my profile, maybe consider drink coffee with me  🥺👉👈
 
