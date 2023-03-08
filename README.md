@@ -15,8 +15,6 @@ I'm Camilo, from Medellín Colombia, I really enjoy working with JavaScript like
 - 📫 How to reach me: [brayan.hernandez1222@gmail.com]
 - 📝 [Resume](https://camilo-hernandez.vercel.app/#resume)
 
-If you like my profile, maybe consider drink coffee with me  🥺👉👈
-
 **My Favorite Languages and Tools:** 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
